@@ -1,6 +1,6 @@
 Name:		texlive-huaz
-Version:	64723
-Release:	2
+Version:	71180
+Release:	1
 Summary:	Automatic Hungarian definite articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/huaz
