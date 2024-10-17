@@ -3,7 +3,7 @@ Version:	71180
 Release:	1
 Summary:	Automatic Hungarian definite articles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/huaz
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/huaz
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/huaz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/huaz.doc.r%{version}.tar.xz
